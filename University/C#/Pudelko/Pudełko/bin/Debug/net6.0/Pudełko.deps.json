@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pudełko/1.0.0": {
+        "dependencies": {
+          "PudelkoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Pudełko.dll": {}
+        }
+      },
+      "PudelkoLibrary/1.0.0": {
+        "runtime": {
+          "PudelkoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pudełko/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PudelkoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
