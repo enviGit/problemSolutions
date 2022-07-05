@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMPSEQ9 - Fun with Sequences", "SMPSEQ9 - Fun with Sequences\SMPSEQ9 - Fun with Sequences.csproj", "{B69946E5-830E-4C90-B33E-86D884AF361E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69946E5-830E-4C90-B33E-86D884AF361E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69946E5-830E-4C90-B33E-86D884AF361E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69946E5-830E-4C90-B33E-86D884AF361E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69946E5-830E-4C90-B33E-86D884AF361E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CACFBD2E-F247-40B9-8B4C-342993294238}
+	EndGlobalSection
+EndGlobal

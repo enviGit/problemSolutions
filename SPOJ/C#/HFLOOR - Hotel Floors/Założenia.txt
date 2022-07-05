@@ -1,0 +1,4 @@
+*Wczytać, załadować do tablicy 2-wymiarowej regularnej
+*Analiza ilości mieszkań - czytanie poszczególnych komórek, rozglądanie się w prawo, lewo
+*Policzyć gwiazdki
+*Licznik i mianownik gotowy - dodajemy i dzielimy

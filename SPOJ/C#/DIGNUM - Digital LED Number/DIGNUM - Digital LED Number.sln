@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIGNUM - Digital LED Number", "DIGNUM - Digital LED Number\DIGNUM - Digital LED Number.csproj", "{F15CED7C-3ABA-4912-98D0-474790F82630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15CED7C-3ABA-4912-98D0-474790F82630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15CED7C-3ABA-4912-98D0-474790F82630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15CED7C-3ABA-4912-98D0-474790F82630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15CED7C-3ABA-4912-98D0-474790F82630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1B5705F-5D33-42CC-83EA-DC96B75B88E4}
+	EndGlobalSection
+EndGlobal
