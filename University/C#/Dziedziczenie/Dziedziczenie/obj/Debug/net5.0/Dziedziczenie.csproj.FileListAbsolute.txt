@@ -1,0 +1,16 @@
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\bin\Debug\net5.0\ref\Dziedziczenie.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\bin\Debug\net5.0\Dziedziczenie.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.csproj.AssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\ref\Dziedziczenie.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Dziedziczenie\Dziedziczenie\obj\Debug\net5.0\Dziedziczenie.genruntimeconfig.cache

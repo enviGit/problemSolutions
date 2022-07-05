@@ -1,0 +1,16 @@
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\bin\Debug\net5.0\Agregator logów.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\bin\Debug\net5.0\Agregator logów.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\bin\Debug\net5.0\Agregator logów.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\bin\Debug\net5.0\Agregator logów.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\bin\Debug\net5.0\Agregator logów.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\bin\Debug\net5.0\ref\Agregator logów.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\bin\Debug\net5.0\Agregator logów.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\Agregator logów.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\Agregator logów.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\Agregator logów.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\Agregator logów.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\Agregator logów.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\ref\Agregator logów.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\Agregator logów.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\Agregator logów.genruntimeconfig.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\Agregator logów\Agregator logów\obj\Debug\net5.0\Agregator logów.csproj.AssemblyReference.cache
