@@ -1,0 +1,16 @@
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\bin\Debug\net5.0\SUMA - Suma.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\bin\Debug\net5.0\SUMA - Suma.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\bin\Debug\net5.0\SUMA - Suma.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\bin\Debug\net5.0\SUMA - Suma.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\bin\Debug\net5.0\SUMA - Suma.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\bin\Debug\net5.0\ref\SUMA - Suma.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\bin\Debug\net5.0\SUMA - Suma.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\SUMA - Suma.csprojAssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\SUMA - Suma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\SUMA - Suma.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\SUMA - Suma.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\SUMA - Suma.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\SUMA - Suma.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\ref\SUMA - Suma.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\SUMA - Suma.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SUMA - Suma\SUMA - Suma\obj\Debug\net5.0\SUMA - Suma.genruntimeconfig.cache
