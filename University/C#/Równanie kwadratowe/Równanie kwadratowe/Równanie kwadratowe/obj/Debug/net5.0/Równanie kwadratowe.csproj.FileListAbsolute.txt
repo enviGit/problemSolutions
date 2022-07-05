@@ -1,0 +1,16 @@
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\bin\Debug\net5.0\Równanie kwadratowe.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\bin\Debug\net5.0\Równanie kwadratowe.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\bin\Debug\net5.0\Równanie kwadratowe.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\bin\Debug\net5.0\Równanie kwadratowe.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\bin\Debug\net5.0\Równanie kwadratowe.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\bin\Debug\net5.0\ref\Równanie kwadratowe.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\bin\Debug\net5.0\Równanie kwadratowe.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\Równanie kwadratowe.csprojAssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\Równanie kwadratowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\Równanie kwadratowe.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\Równanie kwadratowe.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\Równanie kwadratowe.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\Równanie kwadratowe.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\ref\Równanie kwadratowe.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\Równanie kwadratowe.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Równanie kwadratowe\Równanie kwadratowe\Równanie kwadratowe\obj\Debug\net5.0\Równanie kwadratowe.genruntimeconfig.cache

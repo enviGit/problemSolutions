@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tablica postrzępiona/1.0.0": {
+        "runtime": {
+          "Tablica postrzępiona.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tablica postrzępiona/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

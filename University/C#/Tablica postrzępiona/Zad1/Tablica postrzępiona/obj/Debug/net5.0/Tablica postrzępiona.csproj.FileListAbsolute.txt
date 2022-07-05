@@ -1,0 +1,32 @@
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\bin\Debug\net5.0\ref\Tablica postrzępiona.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.csprojAssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\ref\Tablica postrzępiona.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Tablica postrzępiona\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.genruntimeconfig.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\bin\Debug\net5.0\ref\Tablica postrzępiona.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\bin\Debug\net5.0\Tablica postrzępiona.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.csprojAssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\ref\Tablica postrzępiona.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\Zadania na ocenę EWSEI\_____Tablica postrzępiona\Zad1\Tablica postrzępiona\obj\Debug\net5.0\Tablica postrzępiona.genruntimeconfig.cache

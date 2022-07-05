@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablica postrzępiona", "Tablica postrzępiona\Tablica postrzępiona.csproj", "{532E2988-B98B-4283-88A9-BD186F5CEA10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{532E2988-B98B-4283-88A9-BD186F5CEA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532E2988-B98B-4283-88A9-BD186F5CEA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532E2988-B98B-4283-88A9-BD186F5CEA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532E2988-B98B-4283-88A9-BD186F5CEA10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {129810AD-A791-4575-AE1F-6F7AFB8BDA28}
+	EndGlobalSection
+EndGlobal
