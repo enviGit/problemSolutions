@@ -1,0 +1,16 @@
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\bin\Debug\net5.0\SMPSUM - Iterated sums.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\bin\Debug\net5.0\SMPSUM - Iterated sums.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\bin\Debug\net5.0\SMPSUM - Iterated sums.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\bin\Debug\net5.0\SMPSUM - Iterated sums.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\bin\Debug\net5.0\SMPSUM - Iterated sums.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\bin\Debug\net5.0\ref\SMPSUM - Iterated sums.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\bin\Debug\net5.0\SMPSUM - Iterated sums.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\SMPSUM - Iterated sums.csprojAssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\SMPSUM - Iterated sums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\SMPSUM - Iterated sums.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\SMPSUM - Iterated sums.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\SMPSUM - Iterated sums.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\SMPSUM - Iterated sums.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\ref\SMPSUM - Iterated sums.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\SMPSUM - Iterated sums.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\SMPSUM - Iterated sums\SMPSUM - Iterated sums\obj\Debug\net5.0\SMPSUM - Iterated sums.genruntimeconfig.cache
