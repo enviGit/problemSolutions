@@ -1,0 +1,32 @@
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\bin\Debug\net5.0\Liczby.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\bin\Debug\net5.0\Liczby.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\bin\Debug\net5.0\Liczby.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\bin\Debug\net5.0\Liczby.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\bin\Debug\net5.0\Liczby.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\bin\Debug\net5.0\ref\Liczby.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\bin\Debug\net5.0\Liczby.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\Liczby.csprojAssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\Liczby.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\Liczby.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\Liczby.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\Liczby.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\Liczby.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\ref\Liczby.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\Liczby.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Liczby\Liczby\obj\Debug\net5.0\Liczby.genruntimeconfig.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\bin\Debug\net5.0\Liczby.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\bin\Debug\net5.0\Liczby.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\bin\Debug\net5.0\Liczby.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\bin\Debug\net5.0\Liczby.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\bin\Debug\net5.0\Liczby.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\bin\Debug\net5.0\ref\Liczby.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\bin\Debug\net5.0\Liczby.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\Liczby.csprojAssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\Liczby.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\Liczby.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\Liczby.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\Liczby.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\Liczby.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\ref\Liczby.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\Liczby.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\2 Laboratoria 28.03.2021\Zad 4\Liczby\obj\Debug\net5.0\Liczby.genruntimeconfig.cache

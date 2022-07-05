@@ -1,0 +1,16 @@
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\bin\Debug\net5.0\INTEST - Enormous Input Test.exe
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\bin\Debug\net5.0\INTEST - Enormous Input Test.deps.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\bin\Debug\net5.0\INTEST - Enormous Input Test.runtimeconfig.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\bin\Debug\net5.0\INTEST - Enormous Input Test.runtimeconfig.dev.json
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\bin\Debug\net5.0\INTEST - Enormous Input Test.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\bin\Debug\net5.0\ref\INTEST - Enormous Input Test.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\bin\Debug\net5.0\INTEST - Enormous Input Test.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\INTEST - Enormous Input Test.csprojAssemblyReference.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\INTEST - Enormous Input Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\INTEST - Enormous Input Test.AssemblyInfoInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\INTEST - Enormous Input Test.AssemblyInfo.cs
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\INTEST - Enormous Input Test.csproj.CoreCompileInputs.cache
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\INTEST - Enormous Input Test.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\ref\INTEST - Enormous Input Test.dll
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\INTEST - Enormous Input Test.pdb
+D:\Akaadian\Documents\STUDIA\II SEMESTR\Programowanie\3 Laboratoria 18.04.2021\INTEST - Enormous Input Test\INTEST - Enormous Input Test\obj\Debug\net5.0\INTEST - Enormous Input Test.genruntimeconfig.cache
